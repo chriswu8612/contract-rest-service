@@ -35,3 +35,4 @@ README.html
 
 *.class
 *.springBeans
+out/
